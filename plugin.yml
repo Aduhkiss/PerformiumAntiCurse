@@ -1,0 +1,5 @@
+name: PerformiumAntiCurse
+main: net.angusbeefgaming.antiprofpro.AntiProfPro
+version: 1.0
+author: TheBeefSteak
+commands:

@@ -1,2 +1,2 @@
-# PerformiumAntiCurse
-Anti-Curse Plugin written for the Performium Network
+# AntiProfanityPro
+APP Will help keep your server clean from nasty words
