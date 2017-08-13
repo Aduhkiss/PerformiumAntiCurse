@@ -6,9 +6,6 @@ When a person trys to send a message with bad language, the plugin picks up on i
 
 This plugin was written by me, TheBeefSteak (angusbeefsteak), for the Performium Network Minecraft servers.
 
-### Commands
-
-None!
 
 ### Permissions
 
