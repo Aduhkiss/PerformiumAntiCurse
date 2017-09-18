@@ -34,7 +34,7 @@ public class onCurseWord implements Listener {
             	}
             	else {
                     Player player = event.getPlayer();
-                    Bukkit.getServer().dispatchCommand(Bukkit.getServer().getConsoleSender(), "mute " + player.getName() + " 1h Auto-Muted for 1 Hour for Cursing!");
+                    Bukkit.getServer().dispatchCommand(Bukkit.getServer().getConsoleSender(), "mute " + player.getName() + " Auto-Muted for 1 Hour for Cursing!");
                     player.sendMessage(ChatColor.GOLD + "==========================================");
                     player.sendMessage(ChatColor.GOLD + "We do not accept that kind of language");
                     player.sendMessage(ChatColor.GOLD + "on our server, and have auto-muted you.");
